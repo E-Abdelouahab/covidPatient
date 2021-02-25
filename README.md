@@ -1,4 +1,4 @@
-# McDonald
+# Laboratoire_Test_Covid
 Similar application of the McDonald's system with nodeJs and mongoDB
 
 
